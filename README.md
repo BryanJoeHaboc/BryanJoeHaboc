@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryanJoeHaboc
 - 👀 I’m interested in developing Web Applications
-- 🌱 I’m currently learning OOP, Design Patterns, and React!
+- 🌱 I’m currently Typescript and Redux!
 - 📫 How to reach me: You can reach me at my LinkedIn profile: https://www.linkedin.com/in/bryanjoehaboc/
 
 <!---
